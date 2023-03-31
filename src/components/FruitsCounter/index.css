@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 100px;
+}
+.sub_container {
+  background-color: white;
+  padding: 30px;
+}
+.card_container {
+  display: flex;
+}
+img {
+  width: 100px;
+}
